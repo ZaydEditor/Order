@@ -1,0 +1,14 @@
+E:\c# .net\Order\Order\bin\Debug\net8.0\Order.exe
+E:\c# .net\Order\Order\bin\Debug\net8.0\Order.deps.json
+E:\c# .net\Order\Order\bin\Debug\net8.0\Order.runtimeconfig.json
+E:\c# .net\Order\Order\bin\Debug\net8.0\Order.dll
+E:\c# .net\Order\Order\bin\Debug\net8.0\Order.pdb
+E:\c# .net\Order\Order\obj\Debug\net8.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# .net\Order\Order\obj\Debug\net8.0\Order.AssemblyInfoInputs.cache
+E:\c# .net\Order\Order\obj\Debug\net8.0\Order.AssemblyInfo.cs
+E:\c# .net\Order\Order\obj\Debug\net8.0\Order.csproj.CoreCompileInputs.cache
+E:\c# .net\Order\Order\obj\Debug\net8.0\Order.dll
+E:\c# .net\Order\Order\obj\Debug\net8.0\refint\Order.dll
+E:\c# .net\Order\Order\obj\Debug\net8.0\Order.pdb
+E:\c# .net\Order\Order\obj\Debug\net8.0\Order.genruntimeconfig.cache
+E:\c# .net\Order\Order\obj\Debug\net8.0\ref\Order.dll
